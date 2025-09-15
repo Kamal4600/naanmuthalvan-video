@@ -1,4 +1,4 @@
-# SmartSDLC–AI-Enhanced software development lifecycle
+# Healthcare AI
 
 ## Project Documentation  
 https://docs.google.com/document/d/1-QXUdbpUOVT2r9kqhT6Zs5dNOP-Ci00g/edit?usp=drivesdk&ouid=113266487286451864083&rtpof=true&sd=true
